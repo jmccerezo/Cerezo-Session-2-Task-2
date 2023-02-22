@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <>
-       <GroceryList data={this.state} />
+       <GroceryList />
       </>
     )
   }
